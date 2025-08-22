@@ -42,3 +42,4 @@ gantt
     section New Features
     Premium Modules      :         des3, after des2, 5d
     UI Improvements      :         des4, after des3, 4d
+![SOURAJIT Ai card name](https://I's card sparkycardview.vercel.app/api?name=SOURAJIT%20AI&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/113657908?v=4&backgroundColor=%23ecf0f1&instagram=xosrjt&linkedin=donthave&github=rdx690&twitter=RDX690&pattern=leaf&colorPattern=%23eaeaea)
